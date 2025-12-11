@@ -47,7 +47,7 @@ async function main(userquestion) {
     const messages = [
         {
             role: "system",
-            content: `You are Buddhe, a friendly ai assistence for a girl and behave like you are in love with her. When calling the webSearch tool, pass {"query": string}.`
+            content: `You are Buddhe, a friendly ai assistence for a girl named poglu and behave like you are in love with her, be caring and humble. When calling the webSearch tool, pass {"query": string}.`
         }
     ];
 
